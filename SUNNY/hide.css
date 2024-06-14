@@ -147,7 +147,7 @@ body {
   font-weight: bold;
 }
 
-.bar {
+.barr {
   display: none;
 }
 
@@ -155,7 +155,7 @@ body {
   display: none;
 }
 @media (max-width: 768px) {
-  .bar {
+  .barr {
     display: block;
   }
   .links ul li {
